@@ -11,7 +11,7 @@
 - 【24.07.15】潘凌越、 [路晨](https://github.com/Luchen-0420) 简单沟通大概实现流程
 - 【24.07.18】
     - [路晨](https://github.com/Luchen-0420)尝试vue页面是否能部署到openxlab。结果：vue无法部署，只可以html
-    - [路晨](https://github.com/Luchen-0420)绘制第一版原型图并与潘凌越、 [张其来](https://github.com/alg-bug-engineer)沟通
+    - [路晨](https://github.com/Luchen-0420)绘制第一版原型图并与潘凌越、 [张其来](https://github.com/alg-bug-engineer)沟通。结果：22：00沟通完成，一切顺利，明日准备数据。
 - 【24.07.19】
     - [路晨](https://github.com/Luchen-0420) 数据搜集
     - [路晨](https://github.com/Luchen-0420) 前端编写
