@@ -16,7 +16,7 @@
     - [路晨](https://github.com/Luchen-0420) 前端编写
     - [路晨](https://github.com/Luchen-0420) 后端部分接口编写并调试
 - 【24.07.20】
-    - [丁昶文] 数据清洗
+    - 丁昶文 数据清洗
     - [路晨](https://github.com/Luchen-0420) 基于InternLM2.5_7b微调前期工作准备
 - 【24.07.21】
     - [路晨](https://github.com/Luchen-0420) 数据结构化并输出json格式
