@@ -15,7 +15,7 @@
 - 【24.07.19】
     - [路晨](https://github.com/Luchen-0420) 数据搜集
     - [路晨](https://github.com/Luchen-0420) 前端编写
-    - [路晨](https://github.com/Luchen-0420) 后端部分接口编写并调试
+    - [路晨](https://github.com/Luchen-0420) 后端部分接口开发并调试
 - 【24.07.20】
     - 丁昶文 数据清洗
     - [路晨](https://github.com/Luchen-0420) 基于InternLM2.5_7b微调前期工作准备
