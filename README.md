@@ -12,7 +12,10 @@
 
 ## ⏳ 开发日记
 - 【24.07.15】@潘凌越 [@Luchen-0420](https://github.com/Luchen-0420) 简单沟通大概实现流程
-- 【24.07.18】[@Luchen-0420](https://github.com/Luchen-0420)尝试vue页面是否能部署到openxlab(vue无法部署，只可以html）
+- 【24.07.18】
+    1. [@Luchen-0420](https://github.com/Luchen-0420)尝试vue页面是否能部署到openxlab (vue无法部署，只可以html）
+    2. [@Luchen-0420](https://github.com/Luchen-0420)绘制第一版原型图并沟通
+- 【24.07.19】
   
 ## 项目架构图
 
