@@ -13,11 +13,12 @@
     - [路晨](https://github.com/Luchen-0420)尝试vue页面是否能部署到openxlab。结果：vue无法部署，只可以html
     - [路晨](https://github.com/Luchen-0420)绘制第一版原型图并与潘凌越、 [张其来](https://github.com/alg-bug-engineer)沟通。结果：22：00沟通完成，一切顺利，明日准备数据。
 - 【24.07.19】
+    - [路晨](https://github.com/Luchen-0420) 前端编写
+- 【24.07.20】
     - [路晨](https://github.com/Luchen-0420) 数据搜集
+    - 丁昶文 数据清洗
     - [路晨](https://github.com/Luchen-0420) 前端编写
     - [路晨](https://github.com/Luchen-0420) 后端部分接口开发并调试
-- 【24.07.20】
-    - 丁昶文 数据清洗
     - [路晨](https://github.com/Luchen-0420) 基于InternLM2.5_7b微调前期工作准备
 - 【24.07.21】
     - [路晨](https://github.com/Luchen-0420) 数据结构化并输出json格式
