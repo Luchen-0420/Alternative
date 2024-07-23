@@ -14,9 +14,8 @@
     - [路晨](https://github.com/Luchen-0420)绘制第一版原型图并与潘凌越、 [张其来](https://github.com/alg-bug-engineer)沟通。结果：22：00沟通完成，一切顺利，明日准备数据。
 - 【24.07.19】
     - [路晨](https://github.com/Luchen-0420) 前端编写
-- 【24.07.21】
+- 【24.07.23】
     - [路晨](https://github.com/Luchen-0420) 基于InternLM2.5_7b微调前期工作准备
-- 【24.07.22】
     - [路晨](https://github.com/Luchen-0420) 数据搜集
     - 丁昶文 数据清洗
     - [路晨](https://github.com/Luchen-0420) 前端编写
