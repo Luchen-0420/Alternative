@@ -22,10 +22,11 @@
 - 【24.07.23】
     - [路晨](https://github.com/Luchen-0420) 基于InternLM2.5_7b微调前期工作准备
     - [路晨](https://github.com/Luchen-0420) 数据搜集
-    - 丁昶文 数据清洗
+    - 丁昶文 数据整理
+- 【24.07.26】
+    - [张其来](https://github.com/alg-bug-engineer)架构图绘制
+- 【24.07.29】
+    - [路晨](https://github.com/Luchen-0420) 数据结构化并输出json格式
     - [路晨](https://github.com/Luchen-0420) 前端编写
     - [路晨](https://github.com/Luchen-0420) 后端部分接口开发并调试
-- 【24.07.24】
-    - [路晨](https://github.com/Luchen-0420) 数据结构化并输出json格式
-    - [张其来](https://github.com/alg-bug-engineer)架构图绘制
     - [路晨](https://github.com/Luchen-0420) 微调启动！！！
