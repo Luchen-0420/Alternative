@@ -30,5 +30,6 @@
     - [路晨](https://github.com/Luchen-0420) 微调启动！！！
 - 【24.07.30】
     - [路晨](https://github.com/Luchen-0420) QLora微调
-    - [路晨](https://github.com/Luchen-0420) 前端编写
-    - [路晨](https://github.com/Luchen-0420) 后端部分接口开发并调试
+    - [路晨](https://github.com/Luchen-0420) 前端编写（只能以嵌入方式写进一个Html文件，主页面要挂在域名下，有空再弄吧，先streamlit跑通）
+- 【24.07.31】
+    - [路晨](https://github.com/Luchen-0420) QLora微调
