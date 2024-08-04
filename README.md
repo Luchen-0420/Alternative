@@ -37,3 +37,6 @@
 - 【24.08.01】
     - [路晨](https://github.com/Luchen-0420) QLora微调
     - [路晨](https://github.com/Luchen-0420) 视频剪辑
+- 【24.08.04】
+    - [路晨](https://github.com/Luchen-0420) QLora微调
+    - [路晨](https://github.com/Luchen-0420) 视频剪辑
