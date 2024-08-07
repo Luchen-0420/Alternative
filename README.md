@@ -36,7 +36,9 @@
     - 丁昶文 视频脚本编写
 - 【24.08.01】
     - [路晨](https://github.com/Luchen-0420) QLora微调
-    - [路晨](https://github.com/Luchen-0420) 视频剪辑
 - 【24.08.04】
     - [路晨](https://github.com/Luchen-0420) QLora微调
+- 【24.08.07】
+    - [路晨](https://github.com/Luchen-0420) QLora微调
     - [路晨](https://github.com/Luchen-0420) 视频剪辑
+    - [路晨](https://github.com/Luchen-0420) 产品头像
